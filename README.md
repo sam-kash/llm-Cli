@@ -2,7 +2,7 @@ Talking to an LLM <br>
 via CLI
 
 Concepts - <br>
-temperature
+temperature<br>
 Prompt Style
 
 Tech Stack 
